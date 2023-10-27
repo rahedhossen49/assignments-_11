@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .container {
+    width: 800px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(255, 123, 0);
+    position: relative;
+  }
+  
+  .hero {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(3, 54, 54);
+    position: relative;
+  }
+  
+  .about {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    background: rgb(107, 82, 82);
+    position: relative;
+  }
+  
+  .about ol {
+    list-style-position: inside; 
+
+  }
+
+  .service {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(255, 166, 0);
+    position: relative;
+  }
+  
+  .project {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    background: rgb(82, 201, 231);
+    position: relative;
+  }
+  
+  .footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background: black;
+
+  }
